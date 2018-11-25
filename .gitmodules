@@ -1,0 +1,3 @@
+[submodule "masterrepo"]
+	path = masterrepo
+	url = https://github.com/sshakhtour/masterrepo.git
